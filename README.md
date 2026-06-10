@@ -3,8 +3,12 @@
 
 <p align="center">
   <a href="https://orkestra.systems/jefferson">🌐 Website</a> ·
+  <a href="https://www.linkedin.com/in/jefferson-orkestra">💼 LinkedIn</a> ·
+  <a href="mailto:jefferson@orkestra.systems">✉️ Email</a> ·
   <a href="https://orkestra.systems">🏛️ Orkestra Systems</a>
 </p>
+
+<p align="center"><sub>📍 Lisbon, Portugal</sub></p>
 
 ---
 
@@ -38,3 +42,8 @@ Every system I ship answers three questions explicitly:
 ---
 
 <p align="center"><i>Building agentic infrastructure at <a href="https://orkestra.systems">Orkestra Systems</a> — Lisbon & Brazil.</i></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jefferson-orkestra">LinkedIn</a> ·
+  <a href="mailto:jefferson@orkestra.systems">jefferson@orkestra.systems</a>
+</p>
