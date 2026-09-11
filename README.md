@@ -32,7 +32,7 @@ A Lisbon tour operator used to build its week by hand in a spreadsheet, export i
 
 > **Full disclosure:** I work at that company. I built the system that runs the operation where I work, and I operate it every day, so I live with the consequences of my own decisions.
 
-▶ Three short walkthroughs, one per task: [customer messages](https://github.com/jefferson-orkestra/portfolio/blob/main/videos/v2-comms.mp4) (1:48) · [the weekly schedule](https://github.com/jefferson-orkestra/portfolio/blob/main/videos/v3-escala.mp4) (1:41) · [dispatch and the driver's app](https://github.com/jefferson-orkestra/portfolio/blob/main/videos/v4-ops.mp4) (1:10)
+▶ Three short walkthroughs, one per task: [customer messages](https://raw.githubusercontent.com/jefferson-orkestra/portfolio/main/videos/v2-comms.mp4) (1:48) · [the weekly schedule](https://raw.githubusercontent.com/jefferson-orkestra/portfolio/main/videos/v3-escala.mp4) (1:41) · [dispatch and the driver's app](https://raw.githubusercontent.com/jefferson-orkestra/portfolio/main/videos/v4-ops.mp4) (1:10)
 
 ### Earlier work (retired)
 
