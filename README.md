@@ -1,9 +1,11 @@
 <p align="center"><img src="https://raw.githubusercontent.com/jefferson-orkestra/portfolio/main/assets/jefferson-round.png" width="140" alt="Jefferson Alves"></p>
 <h1 align="center">Jefferson Alves</h1>
-<p align="center"><b>Applied AI Engineer</b> · I build AI operating systems for small businesses: one system for an operation that used to live across tools that never talked to each other. The AI prepares; a person dispatches.</p>
+<p align="center"><b>Applied AI Engineer</b> · I build AI operating systems for businesses: beyond automations, one system your whole operation runs on. The AI prepares; a person dispatches.</p>
 
 <p align="center">
-  <a href="https://orkestra.systems/jefferson">🌐 Website</a> ·
+  <a href="https://orkestra.systems">🌐 The system</a> ·
+  <a href="https://orkestra.systems/jefferson">📊 The proof</a> ·
+  <a href="https://orkestra.systems/map">🧭 How it starts</a> ·
   <a href="https://www.linkedin.com/in/jefferson-orkestra">💼 LinkedIn</a> ·
   <a href="https://www.upwork.com/freelancers/jeffersonalves">🟢 Upwork</a> ·
   <a href="mailto:jefferson@orkestra.systems">✉️ Email</a>
@@ -11,11 +13,13 @@
 
 <p align="center"><sub>📍 Lisbon, Portugal</sub></p>
 
+<a href="https://orkestra.systems"><img src="https://raw.githubusercontent.com/jefferson-orkestra/portfolio/main/assets/orkestra-cover.jpg" width="100%" alt="Orkestra: one system for an operation that used to live across tools that never talked to each other"></a>
+
 ---
 
 ### What I do
 
-I build AI operating systems for small businesses. An operation usually lives in five places: a calendar, a few spreadsheets, WhatsApp groups, email, a task board. The team's day goes into jumping between them, copying, checking and typing by hand. I map where the operation lives, then build the one system it moves into: the bookings, the team in the field, the messages, the money. The areas start talking to each other because they are the same data. The AI prepares, proposes and drafts; a person decides and dispatches.
+I build AI operating systems for businesses. An operation usually lives in five places: a calendar, a few spreadsheets, WhatsApp groups, email, a task board. The team's day goes into jumping between them, copying, checking and typing by hand. I map where the operation lives, then build the one system it moves into: the bookings, the team in the field, the messages, the money. The areas start talking to each other because they are the same data. The AI prepares, proposes and drafts; a person decides and dispatches.
 
 One measure: productivity. I find the task a team repeats most, measure it before touching anything, automate the bulk of it, and leave the final call with a person. Then I measure again. The difference between those two numbers is the work.
 
@@ -46,7 +50,7 @@ A Lisbon tour operator used to build its week by hand in a spreadsheet, export i
 
 ### How an engagement starts
 
-Fixed price, one to two weeks: **the map and the first module**. I map every tool your operation lives in and every jump between them, find the most expensive jump, time it before anything changes, write down what the AI will never touch, build the first module of the system, and come back at 30 days to measure. You end up with the map, one working module built so the next one fits, and a number you can trust, whether or not you continue with me.
+Fixed price, one to two weeks: **[the map and the first module](https://orkestra.systems/map)**. I map every tool your operation lives in and every jump between them, find the most expensive jump, time it before anything changes, write down what the AI will never touch, build the first module of the system, and come back at 30 days to measure. You end up with the map, one working module built so the next one fits, and a number you can trust, whether or not you continue with me.
 
 ### Stack
 
