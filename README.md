@@ -1,3 +1,4 @@
+<p align="center"><img src="https://raw.githubusercontent.com/jefferson-orkestra/portfolio/main/assets/jefferson-round.png" width="140" alt="Jefferson Alves"></p>
 <h1 align="center">Jefferson Alves</h1>
 <p align="center"><b>Applied AI Engineer</b> · I build AI operating systems for small businesses: one system for an operation that used to live across tools that never talked to each other. The AI prepares; a person dispatches.</p>
 
